@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tokens": [
+    {
+      "id": 0,
+      "description": "PI - Genius - WG Graz - Second NFT on Ethereum Blockchain - 26.05.2022 Created by Manuel",
+      "external_url": "https://www.google.com/",
+      "image": "https://ibb.co/fF48Q7F",
+      "name": "PI - Genius #0"
+    },
+    {
+      "id": 1,
+      "description": "PI - Genius - WG Graz - Second NFT on Ethereum Blockchain - 26.05.2022 Created by Manuel",
+      "external_url": "https://www.google.com/",
+      "image": "https://ibb.co/fF48Q7F",
+      "name": "PI - Genius #1"
+    },
+    {
+      "id": 2,
+      "description": "PI - Genius - WG Graz - Second NFT on Ethereum Blockchain - 26.05.2022 Created by Manuel",
+      "external_url": "https://www.google.com/",
+      "image": "https://ibb.co/fF48Q7F",
+      "name": "PI - Genius #2"
+    }
+  ]
 }
